@@ -1,4 +1,4 @@
-### Hi, stranger. I'm Gabriel!  😀
+### Hi, stranger. Eu sou o Gabriel!😀
 
 
 <div>

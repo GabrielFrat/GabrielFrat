@@ -1,4 +1,4 @@
-### Over here, stranger. 
+### Welcome, stranger. 
 ### Eu sou o Gabriel!😀
 
 

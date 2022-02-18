@@ -1,6 +1,7 @@
 ### Welcome, stranger. 
 ### Eu sou o Gabriel!😀
-<hr>
+
+##
 
 
 <div>

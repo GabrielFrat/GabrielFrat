@@ -1,9 +1,15 @@
 ### Welcome, stranger. 
-### Eu sou o Gabriel!😀
+### I'm Gabriel!😀
 
-<p>Gamer em tempo integral :computer:
 ##
 
+<p>Desenvolvedor backend :computer:</p>
+<p>Data Science :heart: </p>
+<p>Gamer em tempo integral :video_game:</p>
+<p>Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>
+<p>Livros :sparkling_heart: 📖 </p>
+
+##
 
 <div>
   <a href="https://github.com/GabrielFrat">

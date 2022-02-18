@@ -1,6 +1,7 @@
 ### Welcome, stranger. 
 ### Eu sou o Gabriel!😀
 
+<p>Gamer em tempo integral :computer:
 ##
 
 

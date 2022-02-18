@@ -3,7 +3,7 @@
 
 ##
 
-<li><p>Desenvolvedor backend :computer:</p>
+<li><p>Desenvolvedor backend :computer:</p> </li>
 <li><p>Data Science :heart: </p>
 <li><p>Gamer em tempo integral :video_game:</p>
 <li><p>Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>

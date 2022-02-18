@@ -3,11 +3,11 @@
 
 ##
 
-<p>Desenvolvedor backend :computer:</p>
-<p>Data Science :heart: </p>
-<p>Gamer em tempo integral :video_game:</p>
-<p>Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>
-<p>Livros :sparkling_heart: 📖 </p>
+<li><p>Desenvolvedor backend :computer:</p>
+<li><p>Data Science :heart: </p>
+<li><p>Gamer em tempo integral :video_game:</p>
+<li><p>Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>
+<li><p>Livros :sparkling_heart: 📖 </p>
 
 ##
 

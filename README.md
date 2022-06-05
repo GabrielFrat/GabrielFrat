@@ -11,15 +11,8 @@
 
 ##
 
-<div>
-  <a href="https://github.com/GabrielFrat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=dracula"/></p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula"/>
-
-</div>
-   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat)](https://github.com/GabrielFrat/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula)](https://github.com/GabrielFrat/github-readme-stats)
 
    
   <div style="display: inline_block"><br>

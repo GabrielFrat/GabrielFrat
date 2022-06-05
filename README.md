@@ -1,4 +1,4 @@
-### Welcome, stranger xD. 
+### Welcome, stranger. 
 ### I'm Gabriel!😀
 
 ##

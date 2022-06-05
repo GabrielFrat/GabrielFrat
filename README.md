@@ -15,6 +15,8 @@
   <a href="https://github.com/GabrielFrat">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=dracula"/></p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula"/>
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact)](https://github.com/GabrielFrat/github-readme-stats)
+
 </div>
   
   <div style="display: inline_block"><br>

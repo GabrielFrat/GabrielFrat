@@ -12,7 +12,7 @@
 ##
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=dracula)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula)](https://github.com/GabrielFrat/github-readme-stats)
+[[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula)](https://github.com/GabrielFrat/github-readme-stats)](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula)
 
 ##
   <div style="display: inline_block"><br>

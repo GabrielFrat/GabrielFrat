@@ -2,7 +2,7 @@
 ### I'm Gabriel!😀
 
 ##
-
+<p>° Estágiario em Business Intelligence na Settima Investimentos | XP Investimentos
 <p>° Desenvolvedor backend :computer:</p>
 <p>° Data Science :heart: </p>
 <p>° Gamer em tempo integral :video_game:</p>

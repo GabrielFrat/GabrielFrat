@@ -2,10 +2,10 @@
 ### I'm Gabriel!😀
 
 ##
-<p>° Estágiario em Business Intelligence na Settima Investimentos | XP Investimentos
-<p>° Desenvolvedor backend :computer:</p>
-<p>° Data Science :heart: </p>
-<p>° Gamer em tempo integral :video_game:</p>
+<p>° Estágiario em Business Intelligence na Settima Investimentos | XP Investimentos </p>
+<p>° Desenvolvedor backend - Python :heart: :computer:</p>
+<p>° Data Science and Analytics :heart: </p>
+<p>° Gamer em tempo integral - Aspirantte a Investidor :video_game:</p>
 <p>° Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>
 <p>° Livros :sparkling_heart: 📖 </p>
 

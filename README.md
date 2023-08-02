@@ -1,5 +1,5 @@
 ### Welcome, stranger xD.
-### I'm Gabriel!😀
+### Muito prazer, eu sou o Gabriel!!!
 
 ##
 <p>° Analista de Business Intelligence Pleno na Settima Investimentos | XP Investimentos </p>

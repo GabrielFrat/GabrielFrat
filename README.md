@@ -4,7 +4,7 @@
 ##
 <p>° Analista de Business Intelligence Pleno na Settima Investimentos | XP Investimentos </p>
 <p>° Data Science and Analytics :heart: </p>
-<p>° Especialista em Renda Variável e Mercado Financeiro :heart: </p>
+<p>° Especialista em Renda Variável e Mercado Financeiro 💰: </p>
 <p>° Gamer em tempo integral e Trader nas horas vagas :video_game:</p>
 <p>° Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>
 <p>° Livros :sparkling_heart: 📖 </p>

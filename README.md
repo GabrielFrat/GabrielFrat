@@ -22,6 +22,8 @@
   <img align="center" alt="Gabs-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
   <img align="center" alt="Gabs-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Gabs-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Gabs-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
+    <img align="center" alt="Gabs-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img align="right" alt="Gabs-yoda" src="https://media.giphy.com/media/V05j7ZikncGM5CHm6L/giphy.gif" heigth="90" width="90">
 </div>
   

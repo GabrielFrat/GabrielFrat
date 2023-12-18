@@ -22,7 +22,7 @@
 </div>
   
  ##
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielfrat.visitor-badge)
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gabrielfrat)
   <div> 
   <a href="https://www.instagram.com/gfratts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
      <a href="https://twitter.com/GabsFratucci" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>

@@ -29,8 +29,8 @@
   
  ##
   <div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
+      <h3><b>📍 Profile Visitor Count</b></h3>
+  </div>
 
 <p align="center">
   <img
@@ -39,7 +39,7 @@
   />
 </p>
 
-##
+  <hr>
 
   <div> 
   <a href="https://www.instagram.com/gfratts/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

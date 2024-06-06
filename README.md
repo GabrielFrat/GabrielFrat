@@ -14,13 +14,13 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=dracula)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula)](https://github.com/GabrielFrat/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com?user=KhaledBadranDev&count_private=true&theme=algolia&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&count_private=true&theme=algolia&border_radius=20)
 
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
 
 <!-- compact programming languages layout -->
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 ##
   <div style="display: inline_block"><br>

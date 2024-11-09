@@ -2,7 +2,7 @@
 ### Muito prazer, eu sou o Gabriel!!!
 
 ##
-<p>° Analista de Business Intelligence Pleno na Settima Investimentos | XP Investimentos </p>
+<p>° Automation Specilist at TIM BRASIL </p>
 <p>° Análise e Densenvolvimento de Sistema | Ciências Economicas</p>
 <p>° Data Science and Analytics :heart: </p>
 <p>° Renda Variável e Mercado Financeiro 💰 </p>

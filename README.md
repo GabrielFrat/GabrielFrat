@@ -2,14 +2,9 @@
 ### Muito prazer, eu sou o Gabriel!!!
 
 ##
-<p>° Automation Specilist at TIM BRASIL </p>
-<p>° Análise e Densenvolvimento de Sistema | Ciências Economicas</p>
-<p>° Data Science and Analytics :heart: </p>
-<p>° Renda Variável e Mercado Financeiro 💰 </p>
-<p>° Gamer em tempo integral e Trader nas horas vagas :video_game:</p>
-<p>° Apaixonado por Harry Potter, Senhor dos Anéis e Star Wars :stars:</p>
-<p>° Livros :sparkling_heart: 📖 </p>
-
+<p>° Data  at TIM BRASIL </p>
+<p>° Análise e Densenvolvimento de Sistema</p>
+<p>° Data Science and Engeneer :heart: </p>
 ##
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) <br> <br>

@@ -6,7 +6,6 @@
 <p>° Análise e Densenvolvimento de Sistemas</p>
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) <br> <br>
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&count_private=true&theme=algolia&border_radius=20)
 <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&show_icons=true&theme=algolia&border_radius=20)
@@ -26,7 +25,7 @@
   <div align="center">
       <h3><b>📍 Profile Visitor Count</b></h3>
   </div>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&count_private=true&theme=algolia&border_radius=20)
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/gabrielfrat/count.svg"

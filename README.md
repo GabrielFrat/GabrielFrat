@@ -25,7 +25,7 @@
   <div align="center">
       <h3><b>📍 Profile Visitor Count</b></h3>
   </div>
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&count_private=true&theme=algolia&border_radius=20)
+
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/gabrielfrat/count.svg"

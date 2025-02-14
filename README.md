@@ -2,9 +2,8 @@
 ### Muito prazer, eu sou o Gabriel!!!
 
 ##
-<p>° Data  at TIM BRASIL </p>
+<p>° Data Science and Engineering at TIM BRASIL </p>
 <p>° Análise e Densenvolvimento de Sistema</p>
-<p>° Data Science and Engeneer :heart: </p>
 ##
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) <br> <br>

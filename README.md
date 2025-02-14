@@ -4,10 +4,10 @@
 ##
 <p>° Data Science and Engineering at TIM BRASIL </p>
 
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) <br> <br>
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhaledBadranDev&show_icons=true&theme=algolia&border_radius=20) -->
-<!-- compact programming languages layout -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&show_icons=true&theme=algolia&border_radius=20) <br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GabrielFrat&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

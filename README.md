@@ -3,7 +3,7 @@
 
 ##
 <p>° Data Science and Engineering at TIM BRASIL </p>
-<p>° Análise e Densenvolvimento de Sistema</p>
+<p>° Análise e Densenvolvimento de Sistemas</p>
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) <br> <br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&count_private=true&theme=algolia&border_radius=20)

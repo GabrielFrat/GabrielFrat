@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&theme=radical)
 <br>
 
-<center>![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR) </center>
+![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

@@ -5,6 +5,7 @@
 <p>° Data Science and Engineering at TIM BRASIL </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&hide_progress=true)
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&show_icons=true&theme=algolia&border_radius=20) <br>
 

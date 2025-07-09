@@ -6,10 +6,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&theme=radical)
-![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&show_icons=true&theme=algolia&border_radius=20) <br>
+<br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR)
+<center>![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR) </center>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">

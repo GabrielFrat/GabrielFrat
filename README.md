@@ -21,16 +21,7 @@
     <img align="right" alt="Gabs-yoda" src="https://media.giphy.com/media/V05j7ZikncGM5CHm6L/giphy.gif" heigth="90" width="90">
 </div>
   
- ##
-  <div align="center">
-      <h3><b>📍 Profile Visitor Count</b></h3>
-  </div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/gabrielfrat/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
 </p>
 
   <hr>

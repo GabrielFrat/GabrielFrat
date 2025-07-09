@@ -17,18 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&theme=radical)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabs-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabs-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Gabs-Anaconda" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Gabs-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Gabs-Selenium" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
-  <img align="center" alt="Gabs-VSCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Gabs-yoda" src="https://media.giphy.com/media/V05j7ZikncGM5CHm6L/giphy.gif" height="90" width="90">
-</div>
-
 ---
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)

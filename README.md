@@ -13,7 +13,7 @@
 
 ---
 
-![GabrielFrat GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=radical) <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=transparent) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=compact&theme=radical) <br>
 ![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR)
 

@@ -21,9 +21,9 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula&layout=compact&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=dracula&hide_border=true&count_private=true"/> <br>
-  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFrat&theme=dracula&hide_border=true"/> 
 </p>
-![GabrielFrat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFrat&theme=dracula&hide_border=true)
+
 ---
 
 <!-- BADGES DE TECNOLOGIAS -->

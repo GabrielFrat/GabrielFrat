@@ -13,9 +13,9 @@
 
 ---
 
-![GabrielFrat GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=transparent) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&layout=donut&theme=transparent)](https://github.com/GabrielFrat/github-readme-stats) <br>
-![GitHub Streak](https://streak-stats.demolab.com?user=GabrielFrat&theme=dark&border_radius=30&locale=pt_BR)
+![GabrielFrat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![GabrielFrat's Stats](https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![GabrielFrat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=GabrielFrat&theme=dracula&hide_border=true)
 
 ---
 

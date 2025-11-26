@@ -3,7 +3,7 @@
 
 ##
 
-<p>° Data Specialist at <strong>TIM BRASIL</strong></p>
+<p>° Data Scientist at <strong>TIM BRASIL</strong></p>
 
 > I’m a Data Specialist with over 4 years of experience delivering impactful projects in automation, data analysis, and reporting.  
 > Currently working at TIM Brasil, I develop end-to-end data solutions, from API-driven data extraction and transformation to real-time dashboards in Power BI.  

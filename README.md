@@ -5,14 +5,19 @@
 
 <p>° Data Scientist at <strong>TIM BRASIL</strong></p>
 
-> I’m a Data Specialist with over 4 years of experience delivering impactful projects in automation, data analysis, and reporting.  
-> Currently working at TIM Brasil, I develop end-to-end data solutions, from API-driven data extraction and transformation to real-time dashboards in Power BI.  
->  
-> I’ve built Python-based systems for automated data collection, issue tracking, and data pipelines using MySQL and PostgreSQL databases.  
-> I also focus on process automation, technical documentation, and business-driven data improvements.  
->  
-> I thrive in cross-functional teams, have strong autonomy to design and implement solutions, and am results-oriented.  
-> My tech stack includes Python, SQL, Power BI, Oracle Linux, and Git, with solid knowledge of data engineering best practices.
+I am a Data Scientist with over 4 years of experience and a strong background in Statistics and System Analysis. My career has evolved from building robust data pipelines to developing advanced predictive models that drive strategic business decisions.
+
+Currently at TIM Brasil, I leverage my engineering expertise to build end-to-end data science solutions. My focus goes beyond just training models; I ensure they are scalable, automated, and integrated into business processes.
+
+Key Highlights:
+
+Predictive Modeling: Developed complex Machine Learning pipelines (e.g., using CatBoost and LightGBM) to predict regulatory risks and customer behavior, applying rigorous feature engineering and threshold optimization.
+
+NLP & Unstructured Data: Experienced in applying TF-IDF and text normalization techniques to extract actionable insights from customer service logs.
+
+End-to-End Execution: Proficient in the entire data lifecycle — from API extraction and SQL transformations to model deployment and visualization in Power BI.
+
+I thrive in cross-functional teams, combining statistical rigor with a practical, results-oriented approach to solving business problems.
 
 ---
 

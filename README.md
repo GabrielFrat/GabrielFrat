@@ -61,7 +61,7 @@ Currently at **TIM Brasil**, I leverage my engineering expertise to build end-to
 </p>
 
 <p align="center">
-  <img src="https://github.com/GabrielFrat/GabrielFrat/blob/output/snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/GabrielFrat/GabrielFrat/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---

@@ -1,64 +1,77 @@
-### Welcome, stranger xD.  
-### Muito prazer, eu sou o Gabriel!!!
+# Hi there, I'm Gabriel Fratucci 👋
 
-##
+### Data Scientist | Data Specialist at TIM Brasil
 
-<p>° Data Scientist at <strong>TIM BRASIL</strong></p>
+I am a Data Specialist with over **4 years of experience**, bridging the gap between Data Engineering and Data Science. My career has evolved from building robust data pipelines to developing advanced predictive models that drive strategic business decisions.
 
-I am a Data Scientist with over 4 years of experience and a strong background in Statistics and System Analysis. My career has evolved from building robust data pipelines to developing advanced predictive models that drive strategic business decisions.
-
-Currently at TIM Brasil, I leverage my engineering expertise to build end-to-end data science solutions. My focus goes beyond just training models; I ensure they are scalable, automated, and integrated into business processes.
-
-Key Highlights:
-
-Predictive Modeling: Developed complex Machine Learning pipelines (e.g., using CatBoost and LightGBM) to predict regulatory risks and customer behavior, applying rigorous feature engineering and threshold optimization.
-
-NLP & Unstructured Data: Experienced in applying TF-IDF and text normalization techniques to extract actionable insights from customer service logs.
-
-End-to-End Execution: Proficient in the entire data lifecycle — from API extraction and SQL transformations to model deployment and visualization in Power BI.
-
-I thrive in cross-functional teams, combining statistical rigor with a practical, results-oriented approach to solving business problems.
+Currently at **TIM Brasil**, I leverage my engineering expertise to build end-to-end data solutions — ensuring models are not just trained, but scalable, automated, and integrated into business processes.
 
 ---
 
-<!-- GITHUB STATUS CARDS EM LINHA -->
+### 🚀 Key Highlights
+
+* **Predictive Modeling:** Development of complex ML pipelines (CatBoost, LightGBM) for regulatory risk and customer behavior analysis.
+* **NLP & Unstructured Data:** Application of TF-IDF and text normalization to extract value from customer service logs.
+* **End-to-End Execution:** Full-cycle management — from API extraction and SQL transformations to model deployment and Power BI visualization.
+* **Soft Skills:** I thrive in cross-functional teams, combining statistical rigor with a practical, results-oriented approach.
+
+---
+
+### 🏆 Featured Projects
+
+| Projeto | Descrição | Stack Principal |
+| :--- | :--- | :--- |
+| **[CVM API](https://github.com/GabrielFrat/CVM-Dados-Abertos)** | API com balanços contábeis das principais empresas listadas na CVM | SQL, Python, FastAPI |
+| **[Estatística](https://github.com/GabrielFrat/PUC-Minas)** | Repositório dos principais projetos desenvolvidos na Pós Graduação Lato Sensu | Estatística |
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Analytics**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
+**Data Engineering & Database**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+**DevOps, Visualization & Tools**
+<br>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Grafana-F9C322?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula&layout=compact&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=dracula&hide_border=true&count_private=true"/> <br>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielFrat&theme=dracula&hide_border=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=dracula&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=dracula&layout=compact&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/GabrielFrat/GabrielFrat/blob/output/snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
 
-<!-- BADGES DE TECNOLOGIAS -->
+### 📫 Connect with me
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Grafana-F9C322?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-<!-- LINKS SOCIAIS -->
-
-<p align="center">
-  <a href="https://www.instagram.com/gfratts/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/GabsFratucci" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/gabriel-fratucci-dos-reis-7838611b6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:gabrielfrat@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-fratucci-dos-reis-7838611b6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.instagram.com/gfratts/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>

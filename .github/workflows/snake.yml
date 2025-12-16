@@ -1,18 +1,37 @@
 name: Generate Snake
+
 on:
+  # Roda automaticamente a cada 12 horas
   schedule:
-    - cron: "0 */6 * * *" # roda a cada 6 horas
+    - cron: "0 */12 * * *" 
+  
+  # Permite rodar manualmente na aba Actions
   workflow_dispatch:
+  
+  # Roda a cada push na branch main (opcional, bom para testar)
+  push:
+    branches:
+    - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions: 
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
         with:
+          # Seu nome de usuário do GitHub aqui
           github_user_name: GabrielFrat
-          outputs: dist/snake.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

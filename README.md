@@ -56,8 +56,8 @@ Currently at **TIM Brasil**, I leverage my engineering expertise to build end-to
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&show_icons=true&theme=buefy&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=buefy&layout=compact&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=outrun&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=outrun&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 <p align="center">

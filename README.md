@@ -2,7 +2,7 @@
 
 ### Data Scientist | Data Specialist at TIM Brasil
 
-I am a Data Specialist with over **4 years of experience**, bridging the gap between Data Engineering and Data Science. My career has evolved from building robust data pipelines to developing advanced predictive models that drive strategic business decisions.
+I am a Data Scientist with over **4 years of experience**, bridging the gap between Data Engineering and Data Science. My career has evolved from building robust data pipelines to developing advanced predictive models that drive strategic business decisions.
 
 Currently at **TIM Brasil**, I leverage my engineering expertise to build end-to-end data solutions — ensuring models are not just trained, but scalable, automated, and integrated into business processes.
 

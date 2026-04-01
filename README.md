@@ -1,21 +1,21 @@
-# Hi there, I'm Gabriel Fratucci 👋
+# Olá, eu sou Gabriel Fratucci 👋
 
-### Data Scientist at B3 - BSM Supervisão de Mercado
+### Cientista de Dados na B3 - BSM Supervisão de Mercado
 
-I am a Data Scientist with over **4 years of experience**, bridging the gap between Data Engineering and Data Science. My career has evolved from building robust data pipelines to developing advanced predictive models that drive strategic business decisions.
-
----
-
-### 🚀 Key Highlights
-
-* **Predictive Modeling:** Development of complex ML pipelines (CatBoost, LightGBM) for regulatory risk and customer behavior analysis.
-* **NLP & Unstructured Data:** Application of TF-IDF and text normalization to extract value from customer service logs.
-* **End-to-End Execution:** Full-cycle management — from API extraction and SQL transformations to model deployment and Power BI visualization.
-* **Soft Skills:** I thrive in cross-functional teams, combining statistical rigor with a practical, results-oriented approach.
+Sou Cientista de Dados com mais de **4 anos de experiência**, conectando Engenharia de Dados e Ciência de Dados. Minha carreira evoluiu da construção de pipelines de dados robustos para o desenvolvimento de modelos preditivos avançados que impulsionam decisões estratégicas de negócios.
 
 ---
 
-### 🏆 Featured Projects
+### 🚀 Principais Destaques
+
+* **Modelagem Preditiva e Inferência Estatística:** Desenvolvimento de alertas para operações financeiras atípicas utilizando machine learning e métodos estatísticos, como distância de Mahalanobis e regressão linear.
+* **Modelagem de Dados:** Estruturação, modelagem e otimização de bases de dados para sustentar análises avançadas e rotinas de supervisão de mercado.
+* **NLP e Dados Não Estruturados:** Aplicação de TF-IDF e normalização de texto para extrair valor de registros não estruturados.
+* **Habilidades Comportamentais:** Facilidade para atuar em equipes multidisciplinares, combinando rigor estatístico com uma abordagem prática e orientada a resultados.
+
+---
+
+### 🏆 Projetos em Destaque
 
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
@@ -24,17 +24,18 @@ I am a Data Scientist with over **4 years of experience**, bridging the gap betw
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack Tecnológico
 
-**Languages & Frameworks**
+**Linguagens e Frameworks**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
-**Data Engineering, Database & Cloud**
+**Engenharia de Dados, Bancos de Dados e Cloud**
 <br>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -42,7 +43,7 @@ I am a Data Scientist with over **4 years of experience**, bridging the gap betw
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
-**DevOps, Visualization & Tools**
+**DevOps, Visualização e Ferramentas**
 <br>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Grafana-F9C322?style=for-the-badge&logo=grafana&logoColor=white"/>
@@ -51,29 +52,26 @@ I am a Data Scientist with over **4 years of experience**, bridging the gap betw
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=outrun&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=outrun&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielFrat&theme=outrun&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFrat&theme=outrun&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GabrielFrat/GabrielFrat/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/GabrielFrat/GabrielFrat/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
 
-### 📫 Connect with me
+### 📫 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-fratucci-dos-reis-7838611b6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:gabrielfrat@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/gfratts/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/gabriel-fratucci-dos-reis-7838611b6/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:gabrielfrat@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/gfratts/" target="_

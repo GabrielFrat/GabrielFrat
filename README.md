@@ -24,7 +24,7 @@ Sou Cientista de Dados com mais de **4 anos de experiência**, conectando Engenh
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack Tecnológica
 
 **Linguagens e Frameworks**
 <br>

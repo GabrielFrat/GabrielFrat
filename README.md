@@ -8,7 +8,7 @@ Sou Cientista de Dados com mais de **4 anos de experiência**, conectando Engenh
 
 ### 🚀 Principais Destaques
 
-* **Modelagem Preditiva e Inferência Estatística:** Desenvolvimento de alertas para operações financeiras atípicas utilizando machine learning e métodos estatísticos, como distância de Mahalanobis e regressão linear.
+* **Modelagem Preditiva e Inferência Estatística:** Desenvolvimento de alertas para operações financeiras atípicas utilizando machine learning e métodos estatísticos.
 * **Modelagem de Dados:** Estruturação, modelagem e otimização de bases de dados para sustentar análises avançadas e rotinas de supervisão de mercado.
 * **NLP e Dados Não Estruturados:** Aplicação de TF-IDF e normalização de texto para extrair valor de registros não estruturados.
 * **Habilidades Comportamentais:** Facilidade para atuar em equipes multidisciplinares, combinando rigor estatístico com uma abordagem prática e orientada a resultados.
